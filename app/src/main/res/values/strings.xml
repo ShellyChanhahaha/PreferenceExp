@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PreferenceExp</string>
+    <string name="dialogbased_title">Dialog-based preferences</string>
+    <string name="edit_text_title">Edit Text Preference</string>
+    <string name="edit_text_summary">An example that uses an edit text dialog</string>
+    <string name="animal_summary">Enter your favourite animal</string>
+    <string name="inline">in-line preferences</string>
+    <string name="inline_checkbox_summary">This is a checkbox</string>
+    <string name="inline_checkbox_title">Checkbox preference</string>
+    <string name="list_preference_title_O">List preference</string>
+    <string name="list_preferenc_summary_O">An example that uses a list dialog</string>
+    <string name="list_preference_title_I">Choose one</string>
+    <string name="launch_preference_O">Launch preference</string>
+    <string name="launch_preference_I">Screen preference</string>
+    <string name="launch_preference_I_summary">Shows anther screen of preferences</string>
+    <string name="toggle_preference">Toggle preference</string>
+    <string name="toggle_preference_summary">Preference that is on the next screen but same hierarchy</string>
+    <string name="intent_preference_tite">Intent Preference</string>
+    <string name="intent_preference_summary">Launches an Activity from an intent</string>
+    <string name="intent_preference_data">http://www.baidu.com</string>
+    <string name="preference_attribute">Preference attribute</string>
+    <string name="preference_attribute_parent_checkbox_title">Parent checkbox preference</string>
+    <string name="preference_attribute_parent_checkbox_summary">This is visually a parent</string>
+    <string name="preference_attribute_child_checkbox_title">Child checkbox preference</string>
+    <string name="preference_attribute_child_checkbox_summary">This is visually a child</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
